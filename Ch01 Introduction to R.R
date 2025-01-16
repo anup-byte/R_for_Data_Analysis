@@ -1,5 +1,5 @@
 #------------------------------------#
-# R in Action: Chapter 1    #
+# R in Action: Chapter 1             #
 # Introduction to R                  #
 #------------------------------------#
 

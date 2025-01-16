@@ -1,5 +1,5 @@
 #-----------------------------------#
-# R in Action: Chapter 2   #
+# R in Action: Chapter 2            #
 # Creating a dataset                #
 #-----------------------------------#
 

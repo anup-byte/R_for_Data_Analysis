@@ -1,5 +1,5 @@
 # ----------------------------------------------------#
-# R in Action: Chapter 3                     #
+# R in Action: Chapter 3                              #
 # Getting started with graphs                         #
 # requires that the Hmisc and RColorBrewer  packages  #
 # have been installed                                 #
